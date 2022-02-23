@@ -1,0 +1,8 @@
+{
+    "name":"Macne#7569",
+    "ticker":"RPG",
+    "discordId":"530407747494346752",
+    "pool-list":"true",
+    "poolMetaData":"https://raw.githubusercontent.com/macne-y/rpg/main/poolMetaData.json",
+    "validation":"https://raw.githubusercontent.com/macne-y/rpg/main/sjg-validation.json"
+}
