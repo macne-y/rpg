@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/macne-y/rpg/main/rpg_icon_64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/macne-y/rpg/main/rpg_logo.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/macne-y/rpg/main/spica_icon_64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/macne-y/rpg/main/spica_logo.png",
         "location": "Tokyo, Japan",
         "social": {
             "twitter_handle": "macne_y",
@@ -9,7 +9,7 @@
             "github_handle": "macne-y"
         },
         "about": {
-            "me": "We are a pool run by freelance engineers, and through our activities as SPO, we hope to provide knowledge about Cardano and do things that will help revitalize the art and entertainment industry. We hope that you will consider RPG Pool for your delegation.　フリーランスエンジニアが運営するプールです。SPOとしての活動を通して、カルダノに関する知見の提供や、アート・エンターテインメント業界の活性に繋がることをしていきたいと考えております。委任の際はぜひ、RPGプールをご検討頂ければ幸いです。",
+            "me": "We are a pool run by freelance engineers, and through our activities as SPO, we hope to provide knowledge about Cardano and do things that will help revitalize the art and entertainment industry. We hope that you will consider RPG Pool for your delegation.　フリーランスエンジニアが運営するプールです。SPOとしての活動を通して、カルダノに関する知見の提供や、アート・エンターテインメント業界の活性に繋がることをしていきたいと考えております。委任の際はぜひ、SPICAプールをご検討頂ければ幸いです。",
             "server": "High security cloud VPS. 6 vCore CPU. 16GiB RAM."
         }
     },
